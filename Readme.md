@@ -1,0 +1,1 @@
+[![Build and deploy container app to Azure Web App - cmdregistry](https://github.com/ChinmayMahajan123456789/test-dotnetcore/actions/workflows/master_cmdregistry.yml/badge.svg)](https://github.com/ChinmayMahajan123456789/test-dotnetcore/actions/workflows/master_cmdregistry.yml)
